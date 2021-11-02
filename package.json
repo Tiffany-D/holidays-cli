@@ -1,6 +1,6 @@
 {
-  "name": "holidays-cli",
-  "version": "1.0.0",
+  "name": "@tifftiff/holidates",
+  "version": "1.1.0",
   "description": "holidates in countries",
   "main": "index.js",
   "scripts": {
